@@ -1,5 +1,5 @@
 # meteor-autoform-nativemultiple
-Custom "nativemultiple" input type for AutoForm
+Custom "[nativemultiple](http://lampaa.github.io/nativemultiple/)" input type for AutoForm
 
 ```coffee
 mySchema = new SimpleSchema
